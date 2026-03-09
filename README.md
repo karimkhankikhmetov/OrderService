@@ -11,7 +11,7 @@ Order Service calls Restaurant Service via REST to validate
 menu items and calculate total price before placing an order.
 
 ## Tech Stack
-- Java 21
+- Java 17
 - Spring Boot 3
 - Spring Data JPA
 - PostgreSQL
